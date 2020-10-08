@@ -1,4 +1,3 @@
-인생 망햇ㅅ성ㅅ어ㅓㅓㅓㅓ요 
 
 My life has been ruined
 
