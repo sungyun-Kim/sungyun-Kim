@@ -1,4 +1,4 @@
-1w 25h 코딩 가능?
+AI 해라
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=niforances)](https://solved.ac/niforances)
