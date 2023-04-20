@@ -1,3 +1,14 @@
+<h2 align="center"> ☕ Hello </h2>
+
+<p align="center">
+  <a href="https://steamcommunity.com/id/Niforances/">Steam</a>
+</p>
+
+ - **Android / Embedded Linux / Game Development**
+ - Interested in Teamfight-Tactics third party app
+
+------
+
 <!--START_SECTION:waka-->
 
 ```text
