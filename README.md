@@ -1,7 +1,8 @@
 <h2 align="center"> ☕ Hello </h2>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/Niforances/">Steam</a>
+  <a href="https://steamcommunity.com/id/Niforances/">Steam</a> |
+  <a href="https://gitlab.com/niforances">Gitlab</a>
 </p>
 
  - **Android / Embedded Linux / Game Development**
