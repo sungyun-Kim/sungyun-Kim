@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 24 October 2023
+From: 10 September 2020 - To: 25 October 2023
 
-Total Time: 819 hrs 23 mins
+Total Time: 819 hrs 45 mins
 
-Java             320 hrs 38 mins >>>>>>>>>>---------------   39.13 %
-Kotlin           280 hrs 26 mins >>>>>>>>>----------------   34.23 %
+Java             320 hrs 38 mins >>>>>>>>>>---------------   39.11 %
+Kotlin           280 hrs 26 mins >>>>>>>>>----------------   34.21 %
 Dart             83 hrs 1 min    >>>----------------------   10.13 %
 C#               43 hrs 55 mins  >------------------------   05.36 %
 Groovy           19 hrs 59 mins  >------------------------   02.44 %
