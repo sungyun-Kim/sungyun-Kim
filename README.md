@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 04 June 2024
+From: 10 September 2020 - To: 05 June 2024
 
-Total Time: 914 hrs 10 mins
+Total Time: 919 hrs 53 mins
 
-Java              320 hrs 38 mins >>>>>>>>>----------------   35.07 %
-Kotlin            281 hrs 35 mins >>>>>>>>-----------------   30.80 %
-Dart              85 hrs 55 mins  >>-----------------------   09.40 %
-C#                48 hrs 29 mins  >------------------------   05.30 %
-C                 40 hrs 26 mins  >------------------------   04.42 %
-Other             22 hrs 25 mins  >------------------------   02.45 %
+Java              320 hrs 38 mins >>>>>>>>>----------------   34.86 %
+Kotlin            281 hrs 35 mins >>>>>>>>-----------------   30.61 %
+Dart              85 hrs 55 mins  >>-----------------------   09.34 %
+C#                48 hrs 29 mins  >------------------------   05.27 %
+C                 44 hrs 2 mins   >------------------------   04.79 %
+Other             22 hrs 25 mins  >------------------------   02.44 %
 ```
 
 <!--END_SECTION:waka-->
