@@ -6,7 +6,6 @@
 </p>
 
  - **Android / Embedded Linux / Game Development**
- - Interested in Teamfight-Tactics third party app
 
 ------
 
