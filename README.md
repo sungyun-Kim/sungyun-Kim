@@ -6,6 +6,7 @@
 </p>
 
  - **Android / Embedded Linux / Game Development**
+ - 장르불문 플젝 할사람 연락주세요
 
 ------
 
