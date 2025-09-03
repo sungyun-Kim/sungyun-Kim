@@ -5,8 +5,14 @@
   <a href="https://gitlab.com/niforances">Gitlab</a>
 </p>
 
- - **Android / Embedded Linux / Game Development**
- - 장르불문 플젝 할사람 연락주세요
+Currently Working On
+- Power Consumption Optimization for Embedded Systems: Implementing a learning model on low-power MCUs.
+- Android Application for Medical Devices: Building and maintaining robust Android applications that interface with medical hardware.
+
+Interests
+- Game Development
+- Procedural Content Generation (PCG)
+- Reinforcement Learning
 
 ------
 
