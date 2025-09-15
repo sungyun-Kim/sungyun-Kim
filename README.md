@@ -19,7 +19,7 @@ Interests
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 12 September 2025
+From: 10 September 2020 - To: 13 September 2025
 
 Total Time: 2,016 hrs 59 mins
 
