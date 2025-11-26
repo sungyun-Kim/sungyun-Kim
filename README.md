@@ -19,15 +19,15 @@ Interests
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 23 November 2025
+From: 10 September 2020 - To: 25 November 2025
 
-Total Time: 2,090 hrs 26 mins
+Total Time: 2,095 hrs 15 mins
 
-Kotlin                 1,158 hrs 27 mins>>>>>>>>>>>>>>-----------   55.42 %
-Java                   326 hrs 56 mins >>>>---------------------   15.64 %
-C                      190 hrs 25 mins >>-----------------------   09.11 %
-Dart                   85 hrs 55 mins  >------------------------   04.11 %
-C++                    80 hrs 7 mins   >------------------------   03.83 %
+Kotlin                 1,159 hrs 57 mins>>>>>>>>>>>>>>-----------   55.36 %
+Java                   326 hrs 56 mins >>>>---------------------   15.60 %
+C                      190 hrs 25 mins >>-----------------------   09.09 %
+Dart                   85 hrs 55 mins  >------------------------   04.10 %
+C++                    80 hrs 7 mins   >------------------------   03.82 %
 C#                     52 hrs 46 mins  >------------------------   02.52 %
 ```
 
