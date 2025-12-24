@@ -8,16 +8,16 @@ Currently Working On
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 21 December 2025
+From: 10 September 2020 - To: 22 December 2025
 
-Total Time: 2,117 hrs 1 min
+Total Time: 2,118 hrs 16 mins
 
-Kotlin                 1,165 hrs 10 mins>>>>>>>>>>>>>>-----------   55.04 %
-Java                   326 hrs 56 mins >>>>---------------------   15.44 %
-C                      194 hrs 54 mins >>-----------------------   09.21 %
+Kotlin                 1,165 hrs 25 mins>>>>>>>>>>>>>>-----------   55.02 %
+Java                   326 hrs 56 mins >>>>---------------------   15.43 %
+C                      195 hrs 43 mins >>-----------------------   09.24 %
 Dart                   85 hrs 55 mins  >------------------------   04.06 %
 C++                    81 hrs 54 mins  >------------------------   03.87 %
-Python                 60 hrs 26 mins  >------------------------   02.86 %
+Python                 60 hrs 26 mins  >------------------------   02.85 %
 ```
 
 <!--END_SECTION:waka-->
