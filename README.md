@@ -8,7 +8,7 @@ Currently Working On
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2020 - To: 27 December 2025
+From: 10 September 2020 - To: 28 December 2025
 
 Total Time: 2,122 hrs 55 mins
 
